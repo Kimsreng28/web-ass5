@@ -1,0 +1,121 @@
+.container {
+  position: relative;
+  display: flex;
+}
+
+.container1 {
+  position: relative;
+  display: flex;
+}
+
+.chile {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.chile1 {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.chile2 {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  left: 30%;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.wrap {
+  margin: 2%;
+  width: 20%;
+  height: 80%;
+  background-color: rgb(227, 106, 20);
+  position: absolute;
+  top: 10%;
+  left: 40%;
+}
+
+.wrap1 {
+  margin: 2%;
+  width: 50%;
+  height: 20%;
+  background-color: rgb(227, 106, 20);
+  position: absolute;
+  left: 25%;
+}
+
+.wrap2 {
+  margin: 2%;
+  width: 50%;
+  height: 20%;
+  background-color: rgb(227, 106, 20);
+  position: absolute;
+  top: 75%;
+  left: 25%;
+}
+
+.wrap3 {
+  margin: 2%;
+  width: 20%;
+  height: 80%;
+  background-color: rgb(227, 106, 20);
+  position: absolute;
+  top: 10%;
+  left: 40%;
+}
+
+.wrap4 {
+  margin: 2%;
+  width: 50%;
+  height: 20%;
+  background-color: rgb(227, 106, 20);
+  position: absolute;
+  left: 25%;
+}
+
+.wrap5 {
+  margin: 2%;
+  width: 50%;
+  height: 20%;
+  background-color: rgb(227, 106, 20);
+  position: absolute;
+  left: 25%;
+}
+
+.wrap6 {
+  margin: 2%;
+  width: 20%;
+  height: 95%;
+  background-color: rgb(227, 106, 20);
+  position: absolute;
+
+  left: 20%;
+}
+
+.wrap7 {
+  margin: 2%;
+  width: 50%;
+  height: 20%;
+  background-color: rgb(227, 106, 20);
+  position: absolute;
+  top: 75%;
+  left: 25%;
+}
+
+.wrap8 {
+  margin: 2%;
+  width: 20%;
+  height: 30%;
+  background-color: rgb(227, 106, 20);
+  position: absolute;
+  top: 65%;
+  left: 55%;
+}

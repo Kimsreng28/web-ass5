@@ -1,0 +1,47 @@
+.container {
+  position: relative;
+  display: flex;
+}
+
+.container1 {
+  position: relative;
+  display: flex;
+}
+
+.chile {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  background-color: rgb(212, 179, 140);
+  margin: 2%;
+  left: 30%;
+}
+
+.chile2 {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  left: 30%;
+  background-color: rgb(212, 179, 140);
+  margin: 2%;
+}
+
+.wrap {
+  margin: 2%;
+  width: 50%;
+  height: 60%;
+  background-color: rgb(231, 125, 50);
+  position: absolute;
+  right: 70%;
+  top: 28%;
+}
+
+.wrap2 {
+  margin: 2%;
+  width: 50%;
+  height: 60%;
+  background-color: rgb(231, 125, 50);
+  position: absolute;
+  top: 60%;
+  left: 25%;
+}

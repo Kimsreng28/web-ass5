@@ -1,0 +1,97 @@
+.container {
+  display: flex;
+  align-items: start;
+  justify-self: center;
+}
+
+.container1 {
+  display: flex;
+  align-items: start;
+  justify-self: center;
+}
+
+.chile {
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.chile1 {
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  flex-direction: column;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.chile2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.chile3 {
+  display: flex;
+  align-items: end;
+  justify-content: end;
+  flex-direction: column;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.wrap {
+  flex-grow: 1;
+  margin: 2%;
+  width: 30%;
+  height: 30%;
+  background-color: chocolate;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap1 {
+  flex-grow: 1;
+  margin: 2%;
+  width: 30%;
+  height: 30%;
+  background-color: chocolate;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap2 {
+  flex-grow: 1;
+  margin: 2%;
+  width: 30%;
+  height: 30%;
+  background-color: chocolate;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap3 {
+  flex-grow: 1;
+  margin: 2%;
+  width: 30%;
+  height: 30%;
+  background-color: chocolate;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

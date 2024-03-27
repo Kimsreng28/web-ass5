@@ -1,0 +1,82 @@
+.container {
+  position: relative;
+  display: flex;
+}
+
+.container1 {
+  position: relative;
+  display: flex;
+}
+
+.chile {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.chile1 {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.chile2 {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.chile3 {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.wrap {
+  margin: 2%;
+  width: 96%;
+  height: 30%;
+  background-color: chocolate;
+  position: absolute;
+}
+
+.wrap1 {
+  margin: 2%;
+  width: 30%;
+  height: 95%;
+  background-color: chocolate;
+  position: absolute;
+}
+
+.wrap2 {
+  margin: 2%;
+  width: 96%;
+  height: 30%;
+  background-color: chocolate;
+  position: absolute;
+  top: 30%;
+}
+
+.wrap3 {
+  margin: 2%;
+  width: 30%;
+  height: 95%;
+  background-color: chocolate;
+  position: absolute;
+  left: 66%;
+}
+
+.text {
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  translate: -50% -50%;
+}

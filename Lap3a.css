@@ -1,0 +1,128 @@
+.container {
+  position: relative;
+  display: flex;
+}
+
+.container1 {
+  position: relative;
+  display: flex;
+}
+
+.chile {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.chile1 {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.chile2 {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.chile3 {
+  position: relative;
+  width: 50%;
+  height: 200px;
+  background-color: bisque;
+  margin: 2%;
+}
+
+.wrap {
+  margin: 2%;
+  width: 96%;
+  height: 30%;
+  background-color: chocolate;
+  position: absolute;
+}
+
+.wrap1 {
+  margin: 2%;
+  width: 30%;
+  height: 95%;
+  background-color: chocolate;
+  position: absolute;
+}
+
+.wrap2 {
+  margin: 2%;
+  width: 96%;
+  height: 30%;
+  background-color: chocolate;
+  position: absolute;
+  top: 30%;
+}
+
+.wrap3 {
+  margin: 2%;
+  width: 30%;
+  height: 95%;
+  background-color: chocolate;
+  position: absolute;
+  left: 66%;
+}
+
+.box1 {
+  background-color: steelblue;
+  width: 30%;
+  height: 85%;
+  position: absolute;
+  margin: 5px;
+  left: 1px;
+}
+
+.box2 {
+  background-color: steelblue;
+  width: 30%;
+  height: 85%;
+  position: absolute;
+  margin: 5px;
+  left: 33%;
+}
+
+.box3 {
+  background-color: steelblue;
+  width: 30%;
+  height: 85%;
+  position: absolute;
+  margin: 5px;
+  left: 66%;
+}
+
+.box4 {
+  background-color: steelblue;
+  width: 89%;
+  height: 30%;
+  position: absolute;
+  margin: 5px;
+}
+
+.box5 {
+  background-color: steelblue;
+  width: 89%;
+  height: 30%;
+  position: absolute;
+  margin: 5px;
+  top: 32%;
+}
+
+.box6 {
+  background-color: steelblue;
+  width: 89%;
+  height: 30%;
+  position: absolute;
+  margin: 5px;
+  top: 64.5%;
+}
