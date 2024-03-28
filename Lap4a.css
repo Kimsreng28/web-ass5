@@ -1,63 +1,100 @@
 .container {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 .wrap {
-    display: flex;
-    align-content: stretch;
-    justify-content: space-between;
-    flex-direction: row;
-    width: 50%;
-    height: 200px;
-    background-color: rgb(166, 113, 49);
-    margin: 20%;
+  display: flex;
+  align-content: center;
+  flex-direction: row;
+  width: 50%;
+  height: 200px;
+  background-color: rgb(188, 173, 203);
+  margin: 24%;
 }
 
 .wrap1 {
-    display: flex;
-    align-items: end;
-    justify-content: center;
-    flex-direction: column;
-    width: 20%;
-    height: 95%;
-    margin: 2%;
-    background-color: tomato;
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  flex-direction: column;
+  width: 40%;
+  height: 95%;
+  margin: 2%;
+  background-color: rgb(225, 117, 15);
 }
 
 .bigbox {
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    background-color: tomato;
-    width: 95%;
-    height: 100%;
-    margin: 2%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(225, 117, 15);
+  width: 95%;
+  height: 100%;
+  margin: 2%;
 }
 
 .box {
-    background-color: aqua;
-    width: 80%;
-    height: 90%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 5%;
+  background-color: rgb(21, 62, 62);
+  width: 95%;
+  height: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2%;
 }
 
 .wrap2 {
-    display: flex;
-    align-items: end;
-    align-content: flex-end;
-    justify-content: center;
-    flex-direction: column;
-    width: 20%;
-    height: 95%;
-    margin: 2%;
-    background-color: tomato;
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  flex-direction: column;
+  width: 95%;
+  height: 95%;
+  margin: 2%;
+  background-color: rgb(188, 173, 203);
 }
 
+.box1 {
+  width: 98%;
+  height: 40%;
+  background-color: rgb(225, 117, 15);
+  margin: 1%;
+}
 
+.box2 {
+  width: 98%;
+  height: 90%;
+  background-color: rgb(188, 173, 203);
+  margin: 1%;
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  flex-direction: row;
+}
 
+.box3 {
+  width: 70%;
+  height: 97%;
+  background-color: rgb(188, 173, 203);
+  margin: 1%;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.box4 {
+  width: 50%;
+  height: 97%;
+  background-color: rgb(225, 117, 15);
+  margin: 1%;
+}
+
+.box5 {
+  width: 98%;
+  height: 55%;
+  background-color: rgb(225, 117, 15);
+  margin: 1%;
+}
